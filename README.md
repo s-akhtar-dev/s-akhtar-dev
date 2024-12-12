@@ -1,16 +1,19 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F714&width=435&lines=Hello%2C+I'm+Sarah+Akhtar!)](https://git.io/typing-svg)
 ```
-x─────────────────────────────────────────────x   x─────────────────────────────────────────────x
-│ Sarah Akhtar ⚘                              │   │ Additional Info:                            │
-│                                             │   │                                             │
-│ About Me:                                   │   │ x Hobbies: Design, Reading                  │
-│ x Location: Stockton, CA                    │   │ x Skills: C++, Java, Python                 │
-│ x Title: Student + Software Developer       │   │ x Interests: Backend/Fullstack Development  │
-│ x Education: University of the Pacific      │   │ x Discord: @sarahak1786                     │
-│ x Major: Computer Science                   │   │                                             │
-│ x Email: s_akhtar@u.pacific.edu             │   │      𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𓍊𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𓍊𖡼.𖤣𖥧𖡼.𖤣𖥧        │  ༼ つ ◕_◕ ༽つ
-x─────────────────────────────────────────────x   x─────────────────────────────────────────────x 
+x──────────────x                                   x──────────────x
+| * ~~~~~~~~ * |                                   | * ~~~~~~~~ * |
+x─────────────────────────────────────────────x    x─────────────────────────────────────────────x
+│ Sarah Akhtar ⚘                              │    │ Additional Info:                            │
+│                                             │    │                                             │
+│ About Me:                                   │    │ x Hobbies: Design, Reading                  │
+│ x Location: Stockton, CA                    │    │ x Skills: C++, Java, Python                 │
+│ x Title: Student + Software Developer       │    │ x Interests: Backend/Fullstack Development  │
+│ x Education: University of the Pacific      │    │ x Discord: @sarahak1786                     │
+│ x Major: Computer Science                   │    │                                             │
+│ x Email: s_akhtar@u.pacific.edu             │    │      𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𓍊𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𓍊𖡼.𖤣𖥧𖡼.𖤣𖥧        │  ༼ つ ◕_◕ ༽つ
+x─────────────────────────────────────────────x    x─────────────────────────────────────────────x 
 ```
----
+<hr>
 <table>
   <tr>
     <td>
@@ -23,5 +26,10 @@ x──────────────────────────�
     </td>
   </tr>
 </table>
-
+<hr>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,java,swift,python,tensorflow,cpp,html,css,js,react,androidstudio,eclipse,apple,github,haskell,zig,ruby,matlab,r,obsidian,react,clion,figma,postman,visualstudio,vscode," />
+  </a>
+</p>
 
