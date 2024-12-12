@@ -1,7 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F714&width=435&lines=Hello%2C+I'm+Sarah+Akhtar!)](https://git.io/typing-svg)
+## 🌟 **About Me**
+Hi there! I'm Sarah Akhtar, a passionate Computer Science major at the University of the Pacific in Stockton, CA. As a dedicated student and software developer, I thrive on solving problems and bringing ideas to life through code. With a strong foundation in programming languages like C++, Java, and Python,  Outside of coding, I enjoy designing, reading, and exploring new technologies!
 ```
 x──────────────x                                   x──────────────x
-| * ~~~~~~~~ * |                                   | * ~~~~~~~~ * |
+| * Welcome! * |                                   | * ~~~~~~~~ * |
 x─────────────────────────────────────────────x    x─────────────────────────────────────────────x
 │ Sarah Akhtar ⚘                              │    │ Additional Info:                            │
 │                                             │    │                                             │
