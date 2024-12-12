@@ -29,7 +29,7 @@ x──────────────────────────�
 <hr>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,java,swift,python,tensorflow,cpp,html,css,js,react,androidstudio,eclipse,apple,github,haskell,zig,ruby,matlab,r,obsidian,react,clion,figma,postman,visualstudio,vscode," />
+    <img src="https://skillicons.dev/icons?i=git,c,java,swift,python,tensorflow,cpp,html,css,js,react,androidstudio,eclipse,apple,github,haskell,zig,ruby,matlab,r,obsidian,react,clion,figma,postman,visualstudio,vscode,idea,discord,bash,bitbucket,blender,cmake,gradle,godot,latex,nodejs,ps,qt,robloxstudio,threejs,terraform,svg,rust,flutter" />
   </a>
 </p>
 
