@@ -13,7 +13,9 @@ x──────────────────────────�
 │ x Email: s_akhtar@u.pacific.edu             │    │      𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𓍊𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𓍊𖡼.𖤣𖥧𖡼.𖤣𖥧        │  ༼ つ ◕_◕ ༽つ
 x─────────────────────────────────────────────x    x─────────────────────────────────────────────x 
 ```
-<hr>
+---
+
+## 📊 **GitHub Stats**
 <table>
   <tr>
     <td>
@@ -26,10 +28,15 @@ x──────────────────────────�
     </td>
   </tr>
 </table>
-<hr>
+
+---
+
+## 💻 **Technical Skills**
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,c,java,swift,python,tensorflow,cpp,html,css,js,react,androidstudio,eclipse,apple,github,haskell,zig,ruby,matlab,r,obsidian,react,clion,figma,postman,visualstudio,vscode,idea,discord,bash,bitbucket,blender,cmake,gradle,godot,latex,nodejs,ps,qt,robloxstudio,threejs,terraform,svg,rust,flutter" />
   </a>
 </p>
 
+---
+![Header](./header.png)
